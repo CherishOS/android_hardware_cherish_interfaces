@@ -2,6 +2,5 @@
     <hal format="aidl">
         <name>vendor.lineage.health</name>
         <fqname>IChargingControl/default</fqname>
-        <fqname>IFastCharge/default</fqname>
     </hal>
 </manifest>
